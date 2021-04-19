@@ -105,5 +105,6 @@ class MainWindow(QMainWindow):
 		event.ignore()
 		self.quit(self)
 
+
 if __name__ == "__main__":
 	main(sys.argv)
